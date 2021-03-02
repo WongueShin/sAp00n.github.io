@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-bee",
+  "name": "study_post",
   "private": true,
   "description": "Gatsby blog starter template",
   "version": "0.1.0",
@@ -82,7 +82,7 @@
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
-    "develop": "gatsby build && gh-pages -d public -b master",
+    "develop": "gatsby builds",
     "start": "npm run develop",
     "build": "gatsby build",
     "lh": "lighthousebot",
