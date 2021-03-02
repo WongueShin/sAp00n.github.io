@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about what i learn`,
   author: `[Wongue Shin]`,
   introduction: `96년생 비전공 개발지망생`,
-  siteUrl: `https://sAp00n.github.io`, // Your blog site url
+  siteUrl: `https://studypost.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `sAp00n`, // Your GitHub account
@@ -27,5 +27,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-7564XXWNQ9', // Add your google analytics tranking ID
+  ga: 'G-QJH1FNVXF0', // Add your google analytics tranking ID
 }
